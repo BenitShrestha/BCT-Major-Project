@@ -1,0 +1,11 @@
+Model_Folder,Model_Name,Vocab_Size,Token_Word_Ratio,Character_Coverage,Token_Coverage,Status
+bpe-token-models,bpe-32,32768,1.1287,1.0,0.9659,success
+bpe-token-models,bpe-16,16384,1.2089,1.0,0.9681,success
+bpe-token-models,bpe-50,50256,1.101,1.0,0.965,success
+word-token-models,word-16,16384,0.9787,1.0,0.8914,success
+word-token-models,word-50,50256,0.9907,1.0,0.9329,success
+word-token-models,word-32,32768,0.9891,1.0,0.9229,success
+uni-token-models,uni-50,50256,1.1063,1.0,0.9652,success
+uni-token-models,uni-16,16384,1.1967,1.0,0.9678,success
+uni-token-models,uni-32,32768,1.1241,1.0,0.9657,success
+tiktoken,o200k_base,200019,2.0821,1.0,1.0,success
