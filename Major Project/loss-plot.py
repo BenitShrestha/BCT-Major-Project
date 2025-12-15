@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Read CSV
-df = pd.read_csv("loss_log/loss_log_uni50.csv")
+df = pd.read_csv("plotted_points_bpe16/loss_log_bpe16_plotted_points.csv")
 
 # Ensure val_loss is numeric
 df['val_loss'] = pd.to_numeric(df['val_loss'], errors='coerce')
