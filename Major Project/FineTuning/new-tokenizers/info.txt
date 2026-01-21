@@ -1,2 +1,4 @@
 New tokenizer trained on full dataset
 Check: https://drive.google.com/drive/folders/1bQm6AscMt0ghQqIJeqXFL-QlvaAhI62y?usp=drive_link
+
+Note: Create 4 Directories as shown on directory structure image
